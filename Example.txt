@@ -2,4 +2,5 @@ My first file!
 With 2nd line.
 And unicorn branch.
 And Third branch.
+Code 3
 And next master branch change.
