@@ -1,0 +1,12 @@
+<suite name="TestArenaTest">
+    <test name="PositiveTest">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.test.project.uja.LoginTest" />
+            <class name="com.test.project.uja.EnvironmentTest" />
+            <class name="com.test.project.uja.VersionTest" />
+            <class name="com.test.project.uja.ReleaseTest" />
+            <class name="com.test.project.uja.LogoutTest" />
+        </classes>
+    </test>
+</suite>
