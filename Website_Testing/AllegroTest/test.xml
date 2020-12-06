@@ -1,0 +1,10 @@
+<suite name = "TestAllegro">
+    <test name = "LoginTest">
+        <parameter name ="browser" value = "chrome"/>
+        <classes>
+            <!--<class name = "LoginTest"/>-->
+            <class name = "FindProduct"/>
+            <class name = "FindPrice"/>
+        </classes>
+    </test>
+</suite>
